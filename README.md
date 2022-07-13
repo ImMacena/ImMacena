@@ -1,8 +1,11 @@
 ### Olá, sou o *Guilherme Macena*! - Estudante de programação, em busca de conhecimentos.
+
+##
+
 <div align="center">
   <a href="https://github.com/goZabel">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=goZabel&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&text_color=f0f0f0&bg_color=000&title_color=f00&icon_color=ff9090"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goZabel&layout=compact&langs_count=7&theme=onedark&text_color=f0f0f0&bg_color=000&title_color=f00"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=goZabel&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&text_color=f0f0f0&bg_color=000&title_color=f00&icon_color=ff9090"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goZabel&layout=compact&langs_count=7&theme=onedark&text_color=f0f0f0&bg_color=000&title_color=f00"/>
 </div>
 
 ##
