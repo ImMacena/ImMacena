@@ -2,7 +2,7 @@
 ## I am *Guilherme Macena*! - Dev student.
 
 <div align="start">
-  <h3>Focus on web development with these technologies:</h3>
+  <h3>Focus on development with these technologies:</h3>
 
   <div style="display: inline_block">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
